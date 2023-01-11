@@ -2,18 +2,18 @@
 Information gathering sites and tools
 
 
-Discovering Email Addresses:_
-  [hunter.io](hunter.io)
-  
-  voilanorbert.com
-  phonebook.cz
-  tools.verifyemailaddress.io
+## Discovering Email Addresses:<br />
+  [hunter.io](hunter.io)<br />
+  [VoilàNorbert](voilanorbert.com)<br />
+  [phonebook.cz](phonebook.cz)<br />
+  [VerifyEmailAddress](tools.verifyemailaddress.io)<br />
 
-  Breached credentials:
-    DeHashed: non free service but can be paid for a week, a month, a year
-    using mail, ip, username, addres, phone
-    even gives hash password: then go to hashes.org
+## Breached credentials:<br />
+   [DeHashed](dehashed.com)<br />
+    DeHashed: non free service but can be paid for a week, a month, a year<br />
+    Can use: mail, ip, username, addres, phone<br />
+    Also might return hash password: then go to hashes.org<br />
 
-Hunting subdomains:
-  sublist3r: VirusTotal issue while testing the tool. Need to investigate
-  crt.sh:on a web browser
+## Hunting subdomains:<br />
+  sublist3r: looking for a working version without Virustotal API key required<br />
+  [crt.sh](crt.sh)<br />
