@@ -6,7 +6,7 @@ PAGE STILL IN CONSTRUCTION<br />
   [hunter.io](hunter.io)<br />
   [VoilàNorbert](voilanorbert.com)<br />
   [phonebook.cz](phonebook.cz)<br />
-  [VerifyEmailAddress](tools.verifyemailaddress.io)<br />
+  [EmailHippo](tools.verifyemailaddress.io)<br />
 
 ## Breached credentials:<br />
    [DeHashed](dehashed.com)<br />
