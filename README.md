@@ -15,7 +15,7 @@ PAGE STILL IN CONSTRUCTION<br />
     Also might return hash password: then go to hashes.org<br />
 
 ## Hunting subdomains:<br />
-  sublist3r: looking for a working version without Virustotal API key required<br />
+  sublist3r: Tool designed to enumerate subdomains of websites using OSINT.looking for a working version without Virustotal API key required<br />
   [crt.sh](crt.sh)<br />
 
 ## Email to registered accounts<br />
